@@ -70,14 +70,14 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akifadnan2003&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifadnan2003&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akifadnan2003&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifadnan2003&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akifadnan2003&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=akifadnan2003&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
@@ -85,5 +85,5 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 <div align="center">
   <h3>🤝 Let's Build Something Unique</h3>
   <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/akifadnan2003/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=akifadnan2003&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </div>
