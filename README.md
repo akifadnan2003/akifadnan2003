@@ -70,7 +70,7 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifadnan2003&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifadnan2003&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" width="80%" />
 </div>
 
 <br/>
