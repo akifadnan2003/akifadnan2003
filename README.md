@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00c6ff,0d1117&height=300&section=header&text=Akif%20Adnan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Data%20Strategist%20%7C%20Computer%20Engineer&descSize=20&descAlignY=60" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Voice+AI+from+Scratch+(No+Wrappers);Cloud+Architecture+(AWS+%26+GCP);NLP+%26+Predictive+Modeling;Full+Stack+Engineering+(FastAPI+%2B+React)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Voice+AI+from+Scratch+(No+Wrappers);Cloud+Architecture+(AWS+%26+GCP);NLP+%26+Predictive+Modeling;Full+Stack+Engineering+(FastAPI+%2B+React)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -26,7 +26,7 @@
 
 I am a results-oriented Computer Engineer specializing in **Custom AI Architectures** and **Data Engineering**. I prioritize building robust, scalable systems from the ground up rather than relying on pre-built wrappers.
 
-* [cite_start]**Global Leadership:** Proven ability to lead diverse teams as the **President of Pakistani Students of Bursa** and Vice President of the BTU International Students Society[cite: 48, 51].
+* [cite_start]**Global Leadership:** Proven ability to lead diverse teams as the **President of Pakistani Students of Bursa** and **Vice President of the BTU International Students Society**[cite: 48, 51].
 * [cite_start]**Multilingual Communication:** Fluent in **English (C2), Turkish (C2), and Urdu (Native)**, enabling me to engineer complex multilingual NLP solutions[cite: 45, 46, 50].
 
 ---
@@ -37,23 +37,23 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 | :--- | :--- | :--- |
 | **🤖 Enterprise Voice AI** | `Python` `PyTorch` `WebSockets` | **Engineered from Scratch:** Built low-latency voice agents by orchestrating ASR, LLMs, and TTS directly, avoiding platform wrappers like Bland AI to ensure full control and privacy. |
 | **🏥 Hospital Kiosk Bot** | `AI` `Automation` `IoT` | **Physical Automation:** Developed a standing kiosk AI program for hospitals to interact with patients, streamlining check-ins and inquiries physically. |
-| **☁️ AWS High-Scale Portal** | `AWS` `Cloud Architecture` | [cite_start]**High Availability:** Designed a secure AWS architecture for a portal capable of handling **10,000 concurrent users**[cite: 32]. |
-| **📈 Social Media Predictor** | `FastAPI` `React` `Scikit-Learn` | [cite_start]**End-to-End AI:** A full-stack app using **Random Forest Regressors** to predict tweet engagement based on text metrics[cite: 36, 38]. |
+| **☁️ AWS High-Scale Portal** | `AWS` `Cloud Architecture` | [cite_start]**High Availability:** Designed a secure AWS architecture for a portal capable of handling **10,000 concurrent users**[cite: 30, 32]. |
+| **📈 Social Media Predictor** | `FastAPI` `React` `Scikit-Learn` | [cite_start]**End-to-End AI:** A full-stack app using **Random Forest Regressors** to predict tweet engagement based on text metrics[cite: 35, 36]. |
 | **🎫 Zendesk Automation** | `Zendesk API` `NLP` `GCP` | **Data Engineering:** Built autonomous support agents that integrate deeply with Zendesk for intelligent ticket routing and resolution. |
-| **🔐 Secure File Transfer** | `Scapy` `Cryptography` `Python` | [cite_start]**Low-Level Security:** Implemented a file transfer system using raw IP header manipulation and AES/RSA encryption[cite: 42, 43]. |
+| **🔐 Secure File Transfer** | `Scapy` `Cryptography` `Python` | [cite_start]**Low-Level Security:** Implemented a file transfer system using raw IP header manipulation and AES/RSA encryption[cite: 41, 42]. |
 
 ---
 
 ### 🛠 **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js&perline=3" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv&perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,mongodb,postgres,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,git&perline=5" />
 </div>
 
 ---
