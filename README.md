@@ -84,6 +84,4 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 
 <div align="center">
   <h3>🤝 Let's Build Something Unique</h3>
-  <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=akifadnan2003&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </div>
