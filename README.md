@@ -26,8 +26,8 @@
 
 I am a results-oriented Computer Engineer specializing in **Custom AI Architectures** and **Data Engineering**. I prioritize building robust, scalable systems from the ground up rather than relying on pre-built wrappers.
 
-* [cite_start]**Global Leadership:** Proven ability to lead diverse teams as the **President of Pakistani Students of Bursa** and **Vice President of the BTU International Students Society**[cite: 48, 51].
-* [cite_start]**Multilingual Communication:** Fluent in **English (C2), Turkish (C2), and Urdu (Native)**, enabling me to engineer complex multilingual NLP solutions[cite: 45, 46, 50].
+* **Global Leadership:** Proven ability to lead diverse teams as the **President of Pakistani Students of Bursa** and **Vice President of the BTU International Students Society**.
+* **Multilingual Communication:** Fluent in **English (C2), Turkish (C2), and Urdu (Native)**, enabling me to engineer complex multilingual NLP solutions.
 
 ---
 
@@ -37,8 +37,8 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 | :--- | :--- | :--- |
 | **🤖 Enterprise Voice AI** | `Python` `WebSockets` | **Engineered from Scratch:** Built low-latency voice agents by orchestrating ASR, LLMs, and TTS directly, avoiding platform wrappers like Bland AI. |
 | **🏥 Hospital Kiosk Bot** | `AI` `Automation` | **Physical Automation:** Developed a standing kiosk AI program for hospitals to interact with patients, streamlining check-ins and inquiries physically. |
-| **☁️ AWS High-Scale Portal** | `AWS` `Cloud` | [cite_start]**High Availability:** Designed a secure AWS architecture for a portal capable of handling **10,000 concurrent users**[cite: 30, 32]. |
-| **📈 Social Media Predictor** | `React` `Scikit-Learn` | [cite_start]**End-to-End AI:** A full-stack app using **Random Forest Regressors** to predict tweet engagement based on text metrics[cite: 35, 38]. |
+| **☁️ AWS High-Scale Portal** | `AWS` `Cloud` | **High Availability:** Designed a secure AWS architecture for a portal capable of handling **10,000 concurrent users**. |
+| **📈 Social Media Predictor** | `React` `Scikit-Learn` | **End-to-End AI:** A full-stack app using **Random Forest Regressors** to predict tweet engagement based on text metrics. |
 | **🎫 Zendesk Automation** | `Zendesk API` `GCP` | **Data Engineering:** Built autonomous support agents that integrate deeply with Zendesk for intelligent ticket routing and resolution. |
 
 ---
@@ -70,8 +70,8 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akifadnan2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifadnan2003&layout=compact&theme=tokyonight&hide_border=true" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akifadnan2003&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifadnan2003&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
 <br/>
