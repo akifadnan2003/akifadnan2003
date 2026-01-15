@@ -67,20 +67,3 @@ I am a results-oriented Computer Engineer specializing in **Custom AI Architectu
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifadnan2003&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akifadnan2003&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
----
-
-<div align="center">
-  <h3>🤝 Let's Build Something Unique</h3>
-</div>
