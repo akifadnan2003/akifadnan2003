@@ -22,15 +22,6 @@
 
 ---
 
-### 🧠 **Engineering Philosophy**
-
-I am a results-oriented Computer Engineer specializing in **Custom AI Architectures** and **Data Engineering**. I prioritize building robust, scalable systems from the ground up rather than relying on pre-built wrappers.
-
-* **Global Leadership:** Proven ability to lead diverse teams as the **President of Pakistani Students of Bursa** and **Vice President of the BTU International Students Society**.
-* **Multilingual Communication:** Fluent in **English (C2), Turkish (C2), and Urdu (Native)**, enabling me to engineer complex multilingual NLP solutions.
-
----
-
 ### 🚀 **Featured Projects**
 
 | Project | Tech Stack | Description |
