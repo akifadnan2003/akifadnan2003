@@ -1,60 +1,44 @@
-<div align="center">
+## Akif Adnan
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00c6ff,0d1117&height=300&section=header&text=Akif%20Adnan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Data%20Strategist%20%7C%20Computer%20Engineer&descSize=20&descAlignY=60" width="100%" />
+AI Engineer in Bursa, Türkiye. I build clickstream analytics, AI agents and data platforms on Google Cloud, the kind of tools teams open every morning.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Voice+AI+from+Scratch+(No+Wrappers);Cloud+Architecture+(AWS+%26+GCP);NLP+%26+Predictive+Modeling;Full+Stack+Engineering" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/akifadnan2003" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/akifadnan2003" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:akif.py@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-</div>
+[Website](https://akifadnan2003.github.io) · [LinkedIn](https://www.linkedin.com/in/akifadnan2003) · [Photography](https://instagram.com/akif.clicks)
 
 ---
 
-### 🚀 **Featured Projects**
+### What I work on
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🤖 Enterprise Voice AI** | `Python` `WebSockets` | **Engineered from Scratch:** Built low-latency voice agents by orchestrating ASR, LLMs, and TTS directly, avoiding platform wrappers like Bland AI. |
-| **🏥 Hospital Kiosk Bot** | `AI` `Automation` | **Physical Automation:** Developed a standing kiosk AI program for hospitals to interact with patients, streamlining check-ins and inquiries physically. |
-| **☁️ AWS High-Scale Portal** | `AWS` `Cloud` | **High Availability:** Designed a secure AWS architecture for a portal capable of handling **10,000 concurrent users**. |
-| **📈 Social Media Predictor** | `React` `Scikit-Learn` | **End-to-End AI:** A full-stack app using **Random Forest Regressors** to predict tweet engagement based on text metrics. |
-| **🎫 Zendesk Automation** | `Zendesk API` `GCP` | **Data Engineering:** Built autonomous support agents that integrate deeply with Zendesk for intelligent ticket routing and resolution. |
+**Clickstream and web analytics**
+Site events turned into daily funnels, searches that find nothing, filters that lead nowhere, and sales by channel: for every product, how much came from ads, search, direct visits, email, referrals and AI assistants.
+`GA4` `BigQuery` `SQL` `Next.js` `Cloud Run`
 
----
+**AI agents and automation**
+A real-time voice agent that replies to callers in about 700 ms, with the conversation steered by code and every reply checked. Support automation that triages tickets and drafts replies from company knowledge.
+`Twilio` `Deepgram` `Gemini` `RAG` `FastAPI`
 
-### 🛠 **Tech Stack**
+**Data platforms**
+Reporting tables that rebuild every night, a live delivery dashboard across several carriers, hourly risk scoring and data quality checks.
+`BigQuery` `FastAPI` `Next.js` `Cloud Run`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Language and voice**
+Call transcription, phone menus in 17 languages, multilingual ticket classification and Turkish part-of-speech tagging (90.9% on the standard treebank).
+
+Most of this work lives in private repositories. Write-ups are on [my website](https://akifadnan2003.github.io).
 
 ---
 
+### Public projects
+
+| Project | What it is |
+| :-- | :-- |
+| [**SpeakLab**](https://github.com/akifadnan2003/speak-lab) | A speaking-first English academy app for a tutor and their students. React, TypeScript, Supabase. |
+| [**MediNav Kiosk**](https://github.com/akifadnan2003/MediNav-Kiosk) | An offline, multilingual help kiosk for hospital visitors, with speech recognition running on the device. |
+| [**NetProbe**](https://github.com/akifadnan2003/Net-Probe) | A network protocol on top of UDP, compared against TCP. |
+| [**Parallel point-in-polygon**](https://github.com/akifadnan2003/Paralel-Point-in-Polygon-Tespiti) | A parallel version of a heavy geometry workload, 4.42x faster than the sequential one. |
+| [**This website**](https://github.com/akifadnan2003/akifadnan2003.github.io) | Plain HTML, CSS and JavaScript, in English and Turkish. |
+
+---
+
+### Tools I use most
+
+Python · TypeScript · SQL · FastAPI · Next.js · React · BigQuery · Cloud Run · GA4 · Gemini · Docker · Supabase
