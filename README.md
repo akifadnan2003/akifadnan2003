@@ -8,20 +8,20 @@ AI Engineer in Bursa, Türkiye. I build clickstream analytics, AI agents and dat
 
 ### What I work on
 
-**Clickstream and web analytics**
-Site events turned into daily funnels, searches that find nothing, filters that lead nowhere, and sales by channel: for every product, how much came from ads, search, direct visits, email, referrals and AI assistants.
+**Clickstream and web analytics**<br>
+Site events turned into daily funnels, searches that find nothing, filters that lead nowhere, and sales by channel: for every product, how much came from ads, search, direct visits, email, referrals and AI assistants.<br>
 <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4"> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run">
 
-**AI agents and automation**
-A real-time voice agent that replies to callers in about 700 ms, with the conversation steered by code and every reply checked. Support automation that triages tickets and drafts replies from company knowledge.
+**AI agents and automation**<br>
+A real-time voice agent that replies to callers in about 700 ms, with the conversation steered by code and every reply checked. Support automation that triages tickets and drafts replies from company knowledge.<br>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black" alt="Deepgram"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/RAG-4fb3ff?style=flat-square&logo=databricks&logoColor=white" alt="RAG"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 
-**Data platforms**
-Reporting tables that rebuild every night, a live delivery dashboard across several carriers, hourly risk scoring and data quality checks.
+**Data platforms**<br>
+Reporting tables that rebuild every night, a live delivery dashboard across several carriers, hourly risk scoring and data quality checks.<br>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run">
 
-**Language and voice**
-Call transcription, phone menus in 17 languages, multilingual ticket classification and Turkish part-of-speech tagging (90.9% on the standard treebank).
+**Language and voice**<br>
+Call transcription, phone menus in 17 languages, multilingual ticket classification and Turkish part-of-speech tagging (90.9% on the standard treebank).<br>
 <img src="https://img.shields.io/badge/Speech_to_text-1a8fe3?style=flat-square&logo=googleassistant&logoColor=white" alt="Speech to text"> <img src="https://img.shields.io/badge/Text_to_speech-1a8fe3?style=flat-square&logo=googlecloud&logoColor=white" alt="Text to speech"> <img src="https://img.shields.io/badge/NLP-4b5257?style=flat-square&logo=spacy&logoColor=white" alt="NLP">
 
 Most of this work lives in private repositories. Write-ups are on [my website](https://akifadnan2003.github.io).
